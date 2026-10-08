@@ -1,0 +1,51 @@
+id,customer_name,feedback,rating,channel
+1,Lucas Silva,"Ao tentar finalizar o pagamento no cartão de crédito o app dá erro 500 e fecha sozinho.",1,app_review
+2,Mariana Souza,"Meu pagamento via Pix foi debitado da minha conta mas o pedido continua como não pago no sistema.",1,reclame_aqui
+3,Rafael Costa,"Sempre que clico em confirmar compra na tela de checkout recebo a mensagem 'Erro inesperado'.",1,zendesk
+4,Beatriz Lima,"O botão de pagar com cartão de crédito não responde, tive que desistir da compra.",1,app_review
+5,Carlos Eduardo,"Tentei pagar três vezes pelo app e em todas a transação falhou, mas cobrou na fatura.",1,reclame_aqui
+6,Fernanda Dias,"Erro ao processar o pagamento com cartão virtual. Não consigo concluir meu pedido.",1,zendesk
+7,Gabriel Alves,"O checkout não reconhece a chave Pix copiada do aplicativo do banco.",2,app_review
+8,Juliana Ramos,"Não consigo cadastrar meu novo cartão de crédito para pagar a fatura pendente.",2,intercom
+9,Matheus Ribeiro,"Falha de pagamento recorrente. O aplicativo diz que a operadora recusou, mas a operadora aprovou.",1,reclame_aqui
+10,Camila Santos,"Após a atualização de ontem, o carrinho de compras esvazia sozinho antes de pagar.",1,app_review
+11,Thiago Martins,"O aplicativo trava e congela toda vez que tento abrir a lista de produtos.",1,app_review
+12,Patricia Gomes,"Muito lento no Android! O app demora mais de 30 segundos para carregar a tela inicial.",1,play_store
+13,Rodrigo Ferreira,"Depois do último update o app fecha inesperadamente toda hora que abro a câmera para escanear.",1,play_store
+14,Aline Carvalho,"A tela fica totalmente preta após fazer login e preciso forçar a parada do aplicativo.",1,app_review
+15,Bruno Barbosa,"Consumo de bateria absurdo depois da versão 2.4, meu celular esquenta muito.",2,play_store
+16,Larissa Araujo,"O aplicativo crasha instantaneamente ao tentar visualizar o histórico de pedidos antigos.",1,play_store
+17,Gustavo Rocha,"Interface travando bastante com animações engasgadas no iPhone 12.",2,app_store
+18,Amanda Cardoso,"Lentidão insuportável para carregar as fotos dos produtos na galeria.",2,play_store
+19,Leonardo Teixeira,"O app consome toda a memória RAM e meu celular reinicia sozinho.",1,play_store
+20,Vanessa Moreira,"Bug na tela de login: clico em 'Entrar' e nada acontece, fica em loop infinito.",1,app_review
+21,Felipe Nogueira,"Estou esperando resposta do suporte há mais de 4 dias e ninguém responde meu chamado.",1,zendesk
+22,Carolina Mendes,"O chatbot de suporte é péssimo, fica em círculos e não transfere para um atendente humano.",1,intercom
+23,Diego Castro,"Péssimo atendimento ao cliente. Prometeram estorno em 24h e já faz duas semanas.",1,reclame_aqui
+24,Natalia Pinto,"Abri três tickets no suporte sobre meu pacote extraviado e fecharam sem resolver.",1,zendesk
+25,Marcelo Cavalcanti,"Suporte telefônico nunca atende e o chat online sempre dá erro de conexão.",1,reclame_aqui
+26,Renata Correia,"Atendentes desinformados que não sabem explicar as regras de devolução do produto.",2,intercom
+27,Vinicius Duarte,"Nenhum retorno sobre meu chamado aberto na semana passada, total descaso.",1,zendesk
+28,Bianca Freitas,"O suporte automático não entende perguntas simples e encerra a conversa na minha cara.",1,app_review
+29,Leandro Guimaraes,"Falta de comunicação absurda do time de suporte sobre o atraso da entrega.",1,reclame_aqui
+30,Tatiane Farias,"Atendimento robotizado e inútil, precisei recorrer ao Procon para me ouvirem.",1,reclame_aqui
+31,Pedro Henrique,"Aplicativo sensacional! Interface muito limpa, intuitiva e fácil de navegar.",5,app_store
+32,Isabela Borges,"Adorei a nova experiência de usuário. Muito mais ágil e agradável aos olhos.",5,app_store
+33,Renan Pacheco,"O design ficou incrível e o fluxo de busca é extremamente rápido. Parabéns à equipe!",5,play_store
+34,Luana Vasconcelos,"Melhor app da categoria! Uso todos os dias e nunca tive nenhum problema.",5,app_store
+35,Vitor Azevedo,"Experiência impecável do início ao fim. Interface moderna e navegação suave.",5,play_store
+36,Daniela Moura,"Excelente atualização! As novas ferramentas facilitaram muito meu dia a dia.",5,app_store
+37,Andre Siqueira,"Design limpo, minimalista e muito responsivo. Nota 10!",5,play_store
+38,Monica Peixoto,"Tudo muito prático e organizado. Encontro o que preciso em segundos.",5,app_store
+39,Alexandre Farias,"Design intuitivo e ótimo acabamento visual nas telas principais.",5,play_store
+40,Helena Antunes,"Parabéns aos desenvolvedores pela fluidez do aplicativo e clareza visual.",5,app_store
+41,Marcio Silva,"Ok.",3,app_review
+42,Kelly Santos,"teste 123",3,app_review
+43,Joao Pedro,"...",3,app_review
+44,Luciana Vale,"nada a declarar por enquanto",3,app_review
+45,Roberto Diniz,"Não sei bem o que dizer, acabei de baixar.",3,app_review
+46,Fabio Leite,"O sistema recusou o cartão três vezes seguidas durante o checkout online.",1,reclame_aqui
+47,Sabrina Prado,"Problema no pagamento via Pix: QR code gerado está inválido.",1,zendesk
+48,Otavio Pires,"Transação de compra não finaliza e a tela volta para o carrinho vazio.",1,app_review
+49,Tatiana Cunha,"O app fecha com tela branca logo após autenticar a biometria.",1,play_store
+50,Danilo Fonseca,"Muito lento após a atualização 3.0, consumo de bateria aumentou muito.",2,play_store

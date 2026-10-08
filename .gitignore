@@ -1,0 +1,119 @@
+# ==========================================
+# Ambientes e Variáveis Secretas
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+!.env.example
+
+# ==========================================
+# Python & Backend
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+backend/.venv/
+backend/venv/
+
+# Pacotes e builds Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.ruff_cache/
+.mypy_cache/
+
+# Banco de dados local SQLite & Dados Docker
+*.sqlite
+*.sqlite3
+*.db
+topiclens.db
+backend/topiclens.db
+pgdata/
+
+# Modelos locais / pesos baixados em cache
+.fastembed_cache/
+hf_cache/
+
+# ==========================================
+# Node.js, Frontend & Next.js
+# ==========================================
+node_modules/
+frontend/node_modules/
+
+# Next.js build output
+.next/
+frontend/.next/
+out/
+frontend/out/
+
+# Logs do Node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Vercel / Turbopack
+.vercel
+.turbo
+
+# ==========================================
+# IDEs, Editores e Sistema Operacional
+# ==========================================
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+.fuse_hidden*
+
